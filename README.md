@@ -5,14 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=ankitgurwan&label=Profile%20views&color=0e75b6&style=flat" alt="ankitgurwan" />
 </p>
 
-<hr style="margin: 20px 0; border: none; border-top: 1px solid #ccc;">
 
 ### About Me
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **React.js, Next.js, and Node.js**
 - 📫 How to reach me **a.gurwan@iitg.ac.in**
 
-<hr style="margin: 20px 0; border: none; border-top: 1px solid #ccc;">
 
 ### Connect with Me
 <p align="left" style="margin: 10px 0;">
@@ -24,7 +22,6 @@
   </a>
 </p>
 
-<hr style="margin: 20px 0; border: none; border-top: 1px solid #ccc;">
 
 ### Languages and Tools
 <p align="left" style="margin: 10px 0;">
